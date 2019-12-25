@@ -1,0 +1,3 @@
+need to add security and embed the info into secrets
+need to get the secure version of the connection into the app
+need to expose the external port
